@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/<username>/<repo>/main/path/to/screen41.png" alt="Home" width="240"><br>
+      ![screen41](https://github.com/user-attachments/assets/0bad2c62-9253-40c4-b00f-cd3b099f14a3)<br>
       **Home**
     </td>
     <td align="center">
