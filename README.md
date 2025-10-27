@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://github.com/user-attachments/assets/0bad2c62-9253-40c4-b00f-cd3b099f14a3" style="text-decoration: none; color: black; font-weight: bold; font-size: 18px;">
